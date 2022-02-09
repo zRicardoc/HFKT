@@ -3,20 +3,12 @@
 Learning via Tree-structured Knowledge Graph</h1>
 </div>
 
-<div align="center">
-  <h3><a href=http://dahyun-kang.github.io>Dahyun Kang</a>, <a href=http://arunos728.github.io>Heeseung Kwon</a>, <a href=http://juhongm999.github.io>Juhong Min</a>, <a href=http://cvlab.postech.ac.kr/~mcho/>Minsu Cho</a></h3>
-</div>
-
-<div align="center">
-  <h4> <a href=https://arxiv.org/abs/2108.09666>[paper]</a>, <a href=http://cvlab.postech.ac.kr/research/RENet>[project hompage]</a></h4>
-</div>
-
 
 ## :heavy_check_mark: Requirements
-* Ubuntu 16.04
-* Python 3.7
-* [CUDA 11.0](https://developer.nvidia.com/cuda-toolkit)
-* [PyTorch 1.7.1](https://pytorch.org)
+* Ubuntu 18.04.5
+* Python 3.6.4
+* [CUDA 9.1](https://developer.nvidia.com/cuda-toolkit)
+* [PyTorch 1.6.0](https://pytorch.org)
 
 
 ## :gear: Conda environmnet installation
